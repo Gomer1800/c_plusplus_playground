@@ -1,0 +1,71 @@
+Luis Gomez
+CS 135 Mon Night
+HW 7 UML DIAGRAMS P1,P2,P3
+
+*******************************************************
+	PROGRAM 1 Employee
+*******************************************************
+	ATTRIBUTES
+-name: string
+-idNumber: string
+-department: string
+-position: string
+-yearsWorked: int
+-------------------------------------------------------
+	MEMBER FUNCTIONS
++Employee(n:string, idNum:string, dep:string, pos:string, yrs:int)
++Employee(n:string, idNum:string)
++Employee()
++setName(n:string): bool
++setIdNumber(id:string): bool
++setDepartment(dep:string): bool
++setPosition(pos:string): bool
++setYearsWorked(yrs:int): bool
++getName(): string
++getIdNumber(): string
++getDepartment(): string
++getPosition(): string
++getYearsWorked(): int
+
+*******************************************************
+	PROGRAM 2 Stats
+*******************************************************
+	ATTRIBUTES
+-dataSet[12]: double
+-dataValue: double
+-------------------------------------------------------
+	MEMBER FUNCTIONS
++Stats():constructor
++setValue(element: int, data: double): void
++displayValues(): void
++calcTotal(): double
++calcAverage(): double
++calcLargest(): double
++calcSmallest(): double
+
+*******************************************************
+	PROGRAM 3 GiftWrap
+*******************************************************
+	ATTRIBUTES
+-length: double
+-width: double
+-height: double
+-taxRate: double
+-pricePerInch: double
+-------------------------------------------------------
+	MEMBER FUNCTIONS
++GiftWrap():constructor
++GiftWrap(tax:double ,inchPrice:double):constuctor
++setLength(len:double):bool
++setWidth(wid:double):bool
++setHeight(h:double):bool
++setTaxRate(tax:double):bool
++setPricePerInch(inchPrice:double):bool
++getLength():double
++getWidth():double
++getHeight():double
++getTaxRate():double
++getPricePerInch():double
++calcSubtotal():double
++calcTax():double
++calTotal():double

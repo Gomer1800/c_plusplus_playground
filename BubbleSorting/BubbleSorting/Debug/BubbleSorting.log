@@ -1,0 +1,5 @@
+﻿  BubbleSort.cpp
+c:\users\luisg\source\repos\bubblesorting\bubblesorting\bubblesort.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\luisg\source\repos\bubblesorting\bubblesorting\bubblesort.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\luisg\source\repos\bubblesorting\bubblesorting\bubblesort.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  BubbleSorting.vcxproj -> c:\users\luisg\source\repos\BubbleSorting\Debug\BubbleSorting.exe

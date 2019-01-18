@@ -1,0 +1,3 @@
+﻿  client.cpp
+c:\users\luisg\source\repos\carbonfootprint\carbonfootprint\client.cpp(22): warning C4101: 'footprintPtr': unreferenced local variable
+  CarbonFootprint.vcxproj -> C:\Users\luisg\source\repos\CarbonFootprint\Debug\CarbonFootprint.exe

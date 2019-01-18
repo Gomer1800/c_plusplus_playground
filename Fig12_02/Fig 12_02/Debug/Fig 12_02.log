@@ -1,0 +1,4 @@
+﻿  fig12_02.cpp
+c:\users\luisg\desktop\cs 137\chapter 12 cpp files\fig12_02\fig12_02.cpp(13): error C2440: 'initializing': cannot convert from 'CommissionEmployee *' to 'BasePlusCommissionEmployee *'
+  c:\users\luisg\desktop\cs 137\chapter 12 cpp files\fig12_02\fig12_02.cpp(13): note: Reason: cannot convert from 'CommissionEmployee *' to 'BasePlusCommissionEmployee *'
+  c:\users\luisg\desktop\cs 137\chapter 12 cpp files\fig12_02\fig12_02.cpp(13): note: Cast from base to derived requires dynamic_cast or static_cast
