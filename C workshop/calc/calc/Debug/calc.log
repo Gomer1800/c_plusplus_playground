@@ -1,3 +1,0 @@
-﻿  vanilla_calc.c
-c:\users\luisg\source\repos\calc\calc\vanilla_calc.c(75): warning C4013: 'system' undefined; assuming extern returning int
-  calc.vcxproj -> C:\Users\luisg\source\repos\calc\Debug\calc.exe
